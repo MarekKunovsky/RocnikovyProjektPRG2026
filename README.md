@@ -6,3 +6,4 @@ Progres: pokus o vytvoření 3D prostředí, ale nedokázal jsem stáhnout pytho
 
 15.4.
 Podařilo se mi nainstalovat python do VS Code.
+Pokusil jsem se vytvořit 3D prostředí, ale mám problém se stahováním extensionů.
